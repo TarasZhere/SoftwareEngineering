@@ -18,3 +18,6 @@ The definition:
 
 Some approaches might work for some people but not for others. Therefore we need discipline, but we also need adaptability and agility.
 The value that supports software enginering is a quality focus.
+
+![img1](/assets/img1.png)
+Format: ![Alt Text](url)
