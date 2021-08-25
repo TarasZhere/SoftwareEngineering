@@ -15,5 +15,6 @@
 ### DEFINING THE DISCIPLINE
 The definition:
 > Software Engineering : (1) The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software. (2) The study of approaches as in (1). 
-> Some approaches might work for some people but not for others. Therefore we need discipline, but we also need adaptability and agility.
+
+Some approaches might work for some people but not for others. Therefore we need discipline, but we also need adaptability and agility.
 The value that supports software enginering is a quality focus.
