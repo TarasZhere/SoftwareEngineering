@@ -1,4 +1,5 @@
 ## Software Engineering
+### Intro
 **Software of 21st century:**
 1. Embedded in virtual lives. Grown dramatic interest into software in the last years because of that.
 2. The information technology requirements demanded by everyone increased. Large teams build computer programs that in the past were built by a single developer.
@@ -11,3 +12,6 @@
 **What are the steps?** Apply an agile, adaptable process that leads to a high-quality result that meets the needs of users.
 **What is the work product?** Set of programs, data, and other work products that are computer software.
 
+### DEFINING THE DISCIPLINE
+The definition:
+> Software Engineering : (1) The application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software; that is, the application of engineering to software. (2) The study of approaches as in (1). 
