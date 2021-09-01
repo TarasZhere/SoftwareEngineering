@@ -33,3 +33,26 @@ Overview:
 -   Umbrella Activities
 
 ### Framework activities Depth
+
+1. Communication
+2. Planning
+3. Modeling
+    - Analysis of requirements
+    - Design
+4. Construction
+    - Code generation
+    - Testing
+5. Deployement
+
+### Umbrella Activities Depth
+
+-   Software project tracking and control
+-   Risk management
+-   Software quality assurance
+-   Technical reviews
+-   Measurement
+-   Software configuration management
+-   Reusability management
+-   Work product preparation and production
+
+### Adapting a process model
