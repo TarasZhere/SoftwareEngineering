@@ -62,14 +62,14 @@ A process model influences:
 -   flow of activities, action, and task
 -   degree to which actions and task are defined within each framework activity (Communication, Planning, ...)
 -   work progress that are identified and requierd
--   manner [^1] which quality assurance activities are applied
+-   manner [1] which quality assurance activities are applied
 -   manner in which project tracking and conrfol activites are applied
 -   precision in the documentation (details and rigor)
 -   degree which the the customers and stake holders are involved
 -   the level of autonomy given to the software team
 -   degree to which team organization and roles are prescribed
 
-[^1]: intended as a way in which a thing is done or happens.
+[1]: intended as a way in which a thing is done or happens.
 
 Polya suggestes:
 
