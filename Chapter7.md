@@ -1,7 +1,7 @@
 # Requirement Engineering Tasks
 There are 7 steps that require Engineering process.
 **Which will be on the exam**.
-These tasks lead to an understanding of what the business impact of the software will be, what the customer wants, and how end users will interact with the software. Requirements begins with **Inception**, *A task that defines the nature of the problem needed to be solved*. **Elicitation**, *the step that help stake holder define what is required*. **Elaboration**, *where requirements are fined and modified*.**How do I ensure I have done right?** Stakeholders will ensure that you really have understood the problem.
+These tasks lead to an understanding of what the business impact of the software will be, what the customer wants, and how end users will interact with the software. Requirements begins with **Inception**, *A task that defines the nature of the problem needed to be solved*. **Elicitation**, *the step that help stake holder define what is required*. **Elaboration**, *where requirements are fined and modified*. **How do I ensure I have done right?** Stakeholders will ensure that you really have understood the problem.
 
 ## Inception 
 - Identify the stakeholders
