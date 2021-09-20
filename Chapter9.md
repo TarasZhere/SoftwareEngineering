@@ -39,7 +39,7 @@ but how:
 3. How detailed should the description be
 4. How should the description be 
 
-## developing a Use case [12]
+## developing a Use case [^12] - [^14]
 Homeowner
 - Select camera to view
 - Request thumbnail from all cameras
