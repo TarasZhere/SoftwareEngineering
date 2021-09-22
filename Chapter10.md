@@ -9,7 +9,6 @@ Next could be verbs are potential methonds.
 |User|Validate|
 |-|-|
 |User is the class name|Validate is a function of the class|
-|-|-|
 
 **It is a good idea to keep a list of the canditae classes.**
 Not all classes can be discovered by the description. 
