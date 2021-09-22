@@ -39,7 +39,7 @@ but how:
 3. How detailed should the description be
 4. How should the description be 
 
-## developing a Use case [^12] - [^14]
+## Developing a Use case [^12] - [^14]
 Homeowner
 - Select camera to view
 - Request thumbnail from all cameras
@@ -48,6 +48,16 @@ Homeowner
 - Selectively record  camera output
 - Replay camera out put
 - access camera surveilance
+
+## Exceptions
+- describe different situations. 
+
+## Use case diagram
+Its a draw that we provide for the customer comeposed 2 parts:
+- Users
+- Systems
+- External component (opional)
+If something is repetitive, then use an <<include>> task figure.
 
 
 
