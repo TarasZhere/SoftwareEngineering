@@ -57,7 +57,18 @@ Its a draw that we provide for the customer comeposed 2 parts:
 - Users
 - Systems
 - External component (opional)
-If something is repetitive, then use an <<include>> task figure.
+If something is repetitive, then use an **include** task figure.
+
+## Activity diagram
+> A graphical representation of the scenarios
+Similar to the flow charts.
+The start is represented by a big dot, and the end as well expet that is circled.
+In between use *ovals* to represent the action in the activity diagram. If something is done in parallel the diagram can show with a **black square** which forks out into the task done at the same time.
+The **black square** is also used to represent items that *join together* and must be done before going to the next step.
+The **if** is represented by a **romboid**.
+
+## 
+
 
 
 
