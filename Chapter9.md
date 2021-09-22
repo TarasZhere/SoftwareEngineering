@@ -69,6 +69,10 @@ In between use *ovals* to represent the action in the activity diagram. If somet
 The **black square** is also used to represent items that *join together* and must be done before going to the next step.
 The **if** is represented by a **romboid**.
 
+## Swimlane diagram
+> Similar to the Activity diagram, except it shows who is responsable for each action
+For example if we have a camera "lane" *(column)* it will have an activity of **video output** under it's column
+
 ## 
 
 
