@@ -46,3 +46,12 @@ Example: A **quiz class** aggregates a **question class**
 
 Example: Every car is a vehicle.
 car is a subclass of vehicle.
+
+## Relationship Symbols
+
+|Relationship|Symbol|LineStyle|ArrowTip|
+|--|--|--|--|
+|Inheritance|-->|Solid|Triangle|
+|Interface Implementation|-->|Dootted|Triangle|
+|Aggregation|-->|Solid|Diamond|
+|Dependency|-->|Dotted|Open|
