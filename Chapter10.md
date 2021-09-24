@@ -55,3 +55,11 @@ car is a subclass of vehicle.
 |Interface Implementation|---->|Dootted|Triangle|
 |Aggregation|---->|Solid|Diamond|
 |Dependency|---->|Dotted|Open|
+
+More detail on how many connection can be represented as folloing
+|Symbol| Relationship|
+|----|-----|
+|*|zero or more|
+|1..*| one or more|
+|0..1|zero or more|
+|1|Exactly one|
