@@ -14,3 +14,35 @@ Next could be verbs are potential methonds.
 Not all classes can be discovered by the description. 
 
 ## CRC card
+Class-Responsabilities Collaboration
+Use an index card for each CRC
+
+What if CRC card has the responsabilities? We can split it up to more detailed fetures. 
+## Relationships between Classes (CRC)
+Type of relationships:
+- Dependency
+- Aggregation
+- Inheritance
+
+## Dependency
+> A class depend on another class if it uses objects of that class.
+```
+class CustomerView{
+    void display(Customer C){...}
+}
+```
+We pass a class inside another *(Customer C > CustomerView)* so we can use their property.
+**Coupling** is the connection made between 2 classes. In this case is better to use as low as coupling as possible.
+
+## Aggregation
+> A class aggregates another class is its object contain objects of the other class. 
+- has a relationship
+
+Example: A **quiz class** aggregates a **question class**
+
+
+## Inheritance
+> A class that inherit functions from another class. A sub-class
+
+Example: Every car is a vehicle.
+car is a subclass of vehicle.
