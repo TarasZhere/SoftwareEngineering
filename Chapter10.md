@@ -51,7 +51,7 @@ car is a subclass of vehicle.
 
 |Relationship|Symbol|LineStyle|ArrowTip|
 |--|--|--|--|
-|Inheritance|-->|Solid|Triangle|
-|Interface Implementation|-->|Dootted|Triangle|
-|Aggregation|-->|Solid|Diamond|
-|Dependency|-->|Dotted|Open|
+|Inheritance|---->|Solid|Triangle|
+|Interface Implementation|---->|Dootted|Triangle|
+|Aggregation|---->|Solid|Diamond|
+|Dependency|---->|Dotted|Open|
