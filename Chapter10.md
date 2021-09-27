@@ -28,7 +28,9 @@ Type of relationships:
 > A class depend on another class if it uses objects of that class.
 ```
 class CustomerView{
+    ...
     void display(Customer C){...}
+    ...
 }
 ```
 We pass a class inside another *(Customer C > CustomerView)* so we can use their property.
@@ -63,3 +65,32 @@ More detail on how many connection can be represented as folloing
 |1..*| one or more|
 |0..1|zero or more|
 |1|Exactly one|
+
+### Association
+Association: more general relationship between classes
+Use early in design
+A class is associate to another if we can navigate objects from on class to another.
+
+### Composition
+Compositoin is one of the classes can not exist without another
+
+### Application
+
+
+### Manifestations of Analysis Classes
+Analysis  classes manifest themseves in onw of the following ways:
+- External enitities 
+- things 
+- Occurence or events
+- Roles
+- Organizational Units
+- Places
+- 
+
+## Potential classes
+- Retained informarion
+- Needed serices
+- Multiple attributes
+- Common attributes
+- Common operations, as base class for example
+- Essential requirements, Entity that has an essential requirement could be something that needs a class
