@@ -94,3 +94,16 @@ Analysis  classes manifest themseves in onw of the following ways:
 - Common attributes
 - Common operations, as base class for example
 - Essential requirements, Entity that has an essential requirement could be something that needs a class
+
+## Defining attributes.
+**attributes** describe a class that has been seleceted 
+
+## Defining Operation [8]
+
+## Class types
+Entity Classes: Some classes will be an entity class which also is called model or business classes.
+Boundary classes: Used to create the interface
+
+
+## Responsability 
+System intelligence should be distributed across classes to best address the needs of the problem.
